@@ -31,6 +31,22 @@ app_options:
   #   ascii_mode: true    # 开启默认英文
   com.microsoft.VSCode:
     ascii_mode: true   # 开启默认英文
+  com.google.android.studio: # Android Studio
+    ascii_mode: true
+  com.jetbrains.goland: # GoLand
+    ascii_mode: true
+  com.jetbrains.pycharm: # PyCharm
+    ascii_mode: true
+  com.jetbrains.WebStorm: # WebStorm
+    ascii_mode: true
+  com.microsoft.VSCode: # VSCode
+    ascii_mode: true
+  com.apple.dt.Xcode: # Xcode
+    ascii_mode: true
+  com.apple.Terminal: # 终端
+    ascii_mode: true
+  com.googlecode.iterm2: # iTerm2
+    ascii_mode: true
 
 
 style:
