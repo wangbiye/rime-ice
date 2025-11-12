@@ -47,6 +47,8 @@
 又有	uu
 又又又	uuu
 又双叒叕	uuuu
+。	jh
+、	dh
 
 go	go
 Golang	golang
@@ -62,3 +64,8 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+Android android
+iOS	ios
+iOS	IOS
+Xcode	xcode
+Xcode	XCode
